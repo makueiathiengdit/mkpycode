@@ -80,4 +80,6 @@ onion = 5
 chicken = 1
 
 
+print("Something added at the end")
+
 fry(onion)
